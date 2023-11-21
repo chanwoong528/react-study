@@ -3,6 +3,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { PAGE_LIST } from "./constant/CONSTANT";
 
 function App() {
+  const NoLanes = /*                        */ 0b0000000000000000000000000000000;
+  console.log("!!!!!  ", NoLanes);
   return (
     <BrowserRouter>
       <Routes>
