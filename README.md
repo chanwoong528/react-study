@@ -8,3 +8,8 @@
 - SECTION: JSX
 - SECTION: Fiber and Reconciliation
 - SECTION: Execution Contexts
+- SECTION: React DOM and Rendering
+- SECTION: Events
+- SECTION: State
+- SECTION: Hooks and State
+
